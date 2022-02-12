@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @3Blizz
 - 👀 I’m interested in anime, programming, gaming. 
 - 🌱 I’m currently learning javascript and web-design. I also want to study machine learning.  
+- I won't look up at GitHub that often. 
 
 <!---
 3Blizz/3Blizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
